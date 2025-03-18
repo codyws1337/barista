@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.8.3",
     "barista": "file:",
-    "discord.js": "^14.18.0"
+    "better-sqlite3": "^11.9.0",
+    "compromise": "^14.14.4",
+    "discord.js": "^14.18.0",
+    "lowdb": "^7.0.1"
   }
 }

@@ -1,0 +1,8 @@
+const { EmbedBuilder } = require('discord.js');
+
+const Linksembed = new EmbedBuilder()
+	.setColor(0x0099FF)
+	.setTitle('Stream links')		
+    .setDescription('[Twitch](https://twitch.tv/stormylatte) | [Kick](http://kick.com/cupofstormy)');
+
+    module.exports = { Linksembed };
